@@ -7,6 +7,26 @@ and open the template in the editor.
     Created on : Feb 23, 2021, 11:39:17 AM
     Author     : jmont
 */
+.cameraDudeText{
+    position: absolute;
+    size: 2vw;
+    bottom: 5vw;
+    left: 30vw;
+    animation: color-change 2s infinite;
+}
+@keyframes color-change{
+    0%{color : red;}
+    50%{color : blue;}
+    75%{color : green;}
+    100%{color : red;} 
+}
+.cameraDude{
+    position: absolute;
+    border-style: inset dotted dashed outset;
+    width: auto;
+    height: 15vw;
+    bottom: 0vw;
+}
 .milkyWayText{
     position: absolute;
     right: 11vw;
