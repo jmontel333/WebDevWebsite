@@ -1,0 +1,54 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 23, 2021, 11:39:17 AM
+    Author     : jmont
+*/
+.milkyWayText{
+    position: absolute;
+    right: 11vw;
+    top: 0vw;
+    width: 20vw;
+    height: 10vw;
+    size:   1vw;
+}
+.milkyWay{
+    position: absolute;
+    right: 0vw;
+    top: 0vw;
+    width: 10vw;
+    height: 200vw;
+}
+.disclaimer{
+    position: absolute;
+    font-size: 1.5vw;
+    left: 21vw;
+    top: 0vw;
+    color: green;
+    width: 20vw;
+    height: 9vw;
+}    
+.makeScroll{
+    overflow: scroll;
+}
+.roundedBoatText{
+    position: absolute;
+    top: 0vw;
+    left: 0vw;
+    height: 9vw;
+    width: 20vw;
+    font-size: 1.5vw
+    
+}
+.roundedBoat{
+    border-radius: 33px;
+    width: auto;
+    height: 150px;
+    position: absolute;
+    top: 10vw;
+    left: 0vw;
+    
+}
