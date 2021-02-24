@@ -23,6 +23,7 @@ and open the template in the editor.
 .cameraDude{
     position: absolute;
     border-style: inset dotted dashed outset;
+    border-width: 0.2vw;
     width: auto;
     height: 15vw;
     bottom: 0vw;
