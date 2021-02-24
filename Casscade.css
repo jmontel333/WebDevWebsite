@@ -7,6 +7,25 @@ and open the template in the editor.
     Created on : Feb 23, 2021, 11:39:17 AM
     Author     : jmont
 */
+.spinPicture{
+    position: absolute;
+    bottom: 12vw;
+    right: 40vw;
+    border-radius: 50%;
+    transition: transform 0.5s ease-in-out;
+}
+.spinPicture:hover{
+     transform: rotate(360deg);
+}
+.fixedText{
+    position: fixed;
+    size: 2vw;
+    bottom: 0vw;
+    right: 15vw;
+    border: inset;
+    border-color: green;
+    border-width: 0.2vw;
+}
 .cameraDudeText{
     position: absolute;
     size: 2vw;
