@@ -84,9 +84,9 @@ and open the template in the editor.
     
 }
 .roundedBoat{
-    border-radius: 33px;
+    border-radius: 3vw;
     width: auto;
-    height: 150px;
+    height: 15vw;
     position: absolute;
     top: 10vw;
     left: 0vw;
