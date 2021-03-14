@@ -1,0 +1,112 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 5, 2021, 2:36:38 PM
+    Author     : Jesse
+*/
+.rightParaTxt{
+    position: absolute;
+    color: grey;
+    word-wrap: break-word;
+    max-width: 220px;
+    font-size: 9px;
+    bottom: 80px;
+    right: 170px;
+}
+.belowGermanTxt{
+    position: absolute;
+    color: grey;
+    word-wrap: break-word;
+    max-width: 250px;
+    font-size: 9px;
+    bottom: 80px;
+    right: 415px;
+}
+.germanTxt{
+    position: absolute;
+    color: black;
+    font-weight: bold;
+    font-size: 12px;
+    bottom: 122px;
+    right: 420px;
+}
+.lowerRightText{
+    position: absolute;
+    word-wrap: break-word;
+    color: grey;
+    max-width: 360px;
+    font-size: 6px;
+    bottom: 10px;
+    right: 0px;
+}
+img.warrantyPic{
+    position: absolute;
+    width: 45%;
+    height: auto;
+    bottom: 2px;
+    right: 375px;
+}
+.greyVertLine{
+    position: absolute;
+    color: grey;
+    font-size: 5px;
+    transform: rotate(90deg);
+    bottom: 15px;
+    right: 348px;
+}
+.greyHorzLine{
+    position: absolute;
+    color: grey;
+    font-size: 5px;
+    bottom: 35px;
+    right: 0px;
+}
+.SUVWtxt{
+    position: absolute;
+    color: white;
+    font-size: 80px;
+    top: 105px;
+    right: 130px;
+}
+.notSUVtxt{
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    top: 90px;
+    right: 150px;
+}
+.topTx{
+    position: absolute;
+    color: grey;
+    font-size: 15px;
+    top: 33px;
+    right: 64px;
+}
+.introtxt{
+    position: absolute;
+    bottom: 200px;
+    right: 100px;
+    color: white;
+    font-size: 20px;
+}
+.outerBox{
+    position: relative;
+    height: 900px;
+    width: 726px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 0 auto;
+}
+img.car{
+    position: absolute;
+    right: 64px;
+    top: 50px;
+}
+img.das{
+    position: absolute;
+    left: 530px;
+    top: 735px;
+}
