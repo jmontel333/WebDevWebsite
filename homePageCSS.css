@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 14, 2021, 3:20:44 PM
+    Author     : jmont
+*/
+.titleText{
+    position: absolute;
+    font-size: 5vw;
+    top: 0vw;
+    right: 40vw;
+}
+
+.assignment1{
+    position: absolute;
+    font-size: 2.5vw;
+    top: 7vw;
+    right: 47vw;
+}
+
+.assignment2{
+    position: absolute;
+    font-size: 2.5vw;
+    top: 10vw;
+    right: 47vw;
+}
