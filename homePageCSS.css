@@ -14,16 +14,23 @@ and open the template in the editor.
     right: 40vw;
 }
 
-.assignment1{
+.helloWorld{
     position: absolute;
     font-size: 2.5vw;
     top: 7vw;
+    right: 47.5vw;
+}
+
+.assignment1{
+    position: absolute;
+    font-size: 2.5vw;
+    top: 10vw;
     right: 47vw;
 }
 
 .assignment2{
     position: absolute;
     font-size: 2.5vw;
-    top: 10vw;
+    top: 13vw;
     right: 47vw;
 }
