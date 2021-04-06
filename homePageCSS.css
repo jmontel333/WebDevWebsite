@@ -7,30 +7,36 @@ and open the template in the editor.
     Created on : Mar 14, 2021, 3:20:44 PM
     Author     : jmont
 */
+.tupleSQLText{
+    position: absolute;
+    font-size: 2.5vw;
+    top: 16vw;
+    left: 42vw;
+}
 .titleText{
     position: absolute;
     font-size: 5vw;
     top: 0vw;
-    right: 40vw;
+    left: 35vw;
 }
 
 .helloWorld{
     position: absolute;
     font-size: 2.5vw;
     top: 7vw;
-    right: 47vw;
+    left: 42vw;
 }
 
 .assignment1{
     position: absolute;
     font-size: 2.5vw;
     top: 10vw;
-    right: 47vw;
+    left: 42vw;
 }
 
 .assignment2{
     position: absolute;
     font-size: 2.5vw;
     top: 13vw;
-    right: 47vw;
+    left: 42vw;
 }
